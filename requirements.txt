@@ -88,7 +88,7 @@ shapely==2.0.6
 shellingham==1.5.4
 six==1.17.0
 smart-open==7.1.0
-spacy==3.8.3
+spacy==3.7.6a
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 sqlparse==0.5.3
