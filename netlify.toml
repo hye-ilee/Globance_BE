@@ -8,4 +8,4 @@
 
 [build.environment]
   MISE_SETTINGS_PYTHON_COMPILE = "false"
-  environment = { PYTHON_VERSION = "3.8" }
+  PYTHON_VERSION = "3.8"
